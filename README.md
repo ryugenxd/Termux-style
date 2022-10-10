@@ -10,7 +10,7 @@
 
 The coolest and most complete look without rooting the cellphone, with a more pleasant look for root users.
 
-<a href="./THEMES.md">List Themes</a>
+<a href="./main/THEMES.md">List Themes</a>
 
 # how to use
 
