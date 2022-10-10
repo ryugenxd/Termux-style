@@ -1,4 +1,13 @@
 # Termux Style
+
+[![GitHub stars](https://img.shields.io/github/stars/ryugenxd/Termux-style.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ryugenxd/Termux-style/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/ryugenxd/Termux-style.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ryugenxd/Termux-style/network/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/ryugenxd/Termux-style/)
+[![Github all releases](https://img.shields.io/github/downloads/ryugenxd/Termux-style/total.svg)](https://GitHub.com/ryugenxd/Termux-style/releases/)
+[![GitHub release](https://img.shields.io/github/release/ryugenxd/Termux-style.svg)](https://GitHub.com/ryugenxd/Termux-style/releases/)
+[![GitHub license](https://img.shields.io/github/license/ryugenxd/Termux-style.svg)](https://github.com/ryugenxd/Termux-style/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/ryugenxd/Termux-style.svg)](https://GitHub.com/ryugenxd/Termux-style/graphs/contributors/)
+
 The coolest and most complete look without rooting the cellphone, with a more pleasant look for root users.
 
 <a href="./THEMES.md">List Themes</a>
